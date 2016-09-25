@@ -10,3 +10,6 @@ Tested with Arduino Duelmilanove w/ ATMega328
 
 ### Build
 You need to create a keys.h file (using the keys.h-dist as a guide) which will include all the acceptable IDs.
+
+### License
+GNU GPLv3 - Copyright HSGR commiters
