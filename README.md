@@ -2,8 +2,8 @@
 This is the Arduino Code for hackerspace.gr code
 
 ### Requirements
-* You need to include OneWire Library for it to compile, which can be found [here]( http://www.pjrc.com/teensy/td_libs_OneWire.html) (tested with v2.2)
-* Tested with Arduino IDE 1.0.5
+* You need to include OneWire Library for it to compile, which can be found [here]( http://www.pjrc.com/teensy/td_libs_OneWire.html) (tested with v2.3.2)
+* Tested with Arduino IDE 1.8.0
 
 ### Hardware
 Tested with Arduino Duelmilanove w/ ATMega328
